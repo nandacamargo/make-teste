@@ -1,0 +1,1 @@
+void es_hello ();
